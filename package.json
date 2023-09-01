@@ -1,0 +1,27 @@
+{
+  "name": "redgif",
+  "version": "0.1.1",
+  "description": "Download gifs from Redgifs.",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redgifs",
+    "redgifs-dl",
+    "redgifs-api",
+    "redgifs-downloader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losparviero/redgif.git"
+  },
+  "author": {
+    "name": "Zubin",
+    "email": "me@zubin.org.in",
+    "url": "https://zubin.org.in"
+  },
+  "license": "AGPL-3.0",
+  "dependencies": {}
+}
