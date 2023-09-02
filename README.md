@@ -4,14 +4,6 @@
 
 ### Usage
 
-#### For use in a project
-
-```js
-const { getGif } = require("redgif")
-```
-
-#### For use in a module
-
 ```js
 import { getGif } from "redgif"
 ```
@@ -26,7 +18,7 @@ npm i redgif
 
 ### getGif() Generates downloaded gif returned as buffer
 
-#### Params: [url]
+#### Params: [gifId]
 
 ```js
 const buffer = await getGif(gifId)
