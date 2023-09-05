@@ -2,6 +2,16 @@
 
  Download gifs from Redgifs programtically.
 
+ ### Features
+
+ Zero dependencies.
+
+ Gets the highest quality.
+
+ If not, fallback to standard quality.
+
+ Much more stable than scraping methods.
+
 ### Usage
 
 ```js
@@ -24,6 +34,10 @@ npm i redgif
 const buffer = await getGif(gifId)
 fs.writeFileSync("redgif.mp4", buffer)
 ```
+
+gifId refers to the ID extracted from the full URL.
+
+Use the appropriate file extension to save, can be .jpg or .mp4 for example.
 
 ### License
 
