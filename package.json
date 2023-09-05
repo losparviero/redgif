@@ -1,6 +1,6 @@
 {
   "name": "redgif",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Download gifs from Redgifs programtically.",
   "main": "./lib/index.js",
   "type": "module",

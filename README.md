@@ -2,6 +2,8 @@
 
  Download gifs from Redgifs programtically.
 
+ For CLI usage, see [redgifs-dl](https://npmjs.com/redgifs-dl).
+
  ### Features
 
  Zero dependencies.
